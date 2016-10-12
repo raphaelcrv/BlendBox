@@ -1,0 +1,28 @@
+
+/*Icons Size*/
+.ion-big{
+  font-size: 24px;
+  padding: 0 10px 0;
+}
+
+.ion-mid{
+  font-size: 20px;
+  padding: 0 15px 0;
+}
+
+.ion-small{
+  font-size: 16px;
+  padding: 0 8px 0;
+}
+
+/*colors*/
+
+.white{
+  color: #fff;
+}
+
+
+.img-responsive{
+  height: 300px;
+}
+

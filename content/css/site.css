@@ -1,0 +1,60 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700';
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color:#181818;
+}
+
+h1,h2,h3{
+  margin: 0;
+  padding: 0;
+}
+
+/*TopNav CSS*/
+
+.top-nav{
+  background: #181818;
+  padding: 5px 0;
+}
+
+.top-nav ul{
+  display: block;
+  float: right;
+  padding: 5px;
+}
+
+.top-nav li{
+  display: inline;
+}
+
+.top-nav li a{
+  text-decoration: none;  
+  color: #a5a5a5;
+  font-size: 14px;
+  padding: 0 5px;
+}
+
+.top-nav li a:hover{
+  text-decoration: none;  
+  color: #fff;
+}
+
+.nav-brand{
+ height: 150px;
+ background: #212121;
+}
+
+.brand{
+  margin: 32px 0px 0;  
+}
+
+.sprite-logo {
+	background: url('../images/sprite-home.png') no-repeat 0 -34px;
+	width: 176px;
+	height: 30px;
+  float: left;
+}
+
+.movie-list{
+  
+}
