@@ -9,6 +9,7 @@ Please send a pull request and i'll review and aprove, togheter we are strong
 ## Authors
 
 * **Raphael Souza** - *Initial work* - [raphaelcrv repo](https://github.com/raphaelcrv)
+* **Raphael Borges** - *Initial work*
 
 See also the list of [contributors](https://github.com/raphaelcrv/vagrant-php-mysql-box/edit/Readme-Update/CONTRIBUTING.md) who participated in this project.
 
