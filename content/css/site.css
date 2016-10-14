@@ -39,6 +39,10 @@ h1,h2,h3{
   color: #fff;
 }
 
+.top-nav-icons{
+  padding: 0 15px 0px 0;
+}
+
 .nav-brand{
  height: 150px;
  background: #212121;
@@ -55,6 +59,16 @@ h1,h2,h3{
   float: left;
 }
 
-.movie-list{
-  
+.mv-title{
+  text-align: left;
+  padding: 0 0;
+  margin: 0;
+}
+
+.mv-review{
+  float: right;
+}
+
+.mv-selected li a:hover{
+  opacity: 0.1;
 }
