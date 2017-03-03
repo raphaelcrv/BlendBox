@@ -1,0 +1,4 @@
+git pull origin master - recebe todas as atualizações da nuvem
+ 
+
+git gui - abre a janela para enviar suas alterações para a nuvem
